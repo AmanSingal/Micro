@@ -1,16 +1,12 @@
 # Micro
 
-This repo contains the code for the compiler for the MICRO language.
+This repo contains code of the compiler for `MICRO` language.
 
-## Making the Compiler Executable
-To make the compiler executable, use the following command:
-```sh
-make compiler
-```
-## Running the Compiler
-To run the compiler, use the following command:
-```sh
-./runme.sh input/fma.micro <outputFileName>
-```
+## To make compiler executable
 
-You can try out any of the example inputs from the input folder, or you can create your own and try it out.
+Command: ```make compiler```
+
+## To run the compiler
+
+Command: ```./runme.sh input/fma.micro <outputFile Name>```<br>
+*You can try out any of the example inputs from input folder or you can make one of your own and try out*
